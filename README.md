@@ -1,6 +1,6 @@
 # simcode-testbed
 
-An **automated testbed city** for [SimCode](https://simcode.lyabah.com). Not a
+An **automated testbed city** for [SimCode](https://simgit.io). Not a
 hand-played city — the controller here is pushed by Claude Code to verify platform
 and game features against a **real running city**, which is the standing bar for
 "done" in this project.
